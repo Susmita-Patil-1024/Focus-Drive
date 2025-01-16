@@ -34,6 +34,6 @@
 Take control of your day and achieve your goals with **Focus-Drive**. Focus on what truly matters, track your progress, and stay motivated!
 
 Check out the live demo of **Focus-Drive** here:  
-[Focus-Drive Demo](https://your-deployed-project-link.com)
+[Focus-Drive Demo](https://focus-drive.netlify.app/)
 
 ---
