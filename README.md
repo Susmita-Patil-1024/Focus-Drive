@@ -1,4 +1,4 @@
-# Focus-Drive 🎯📅
+# Focus-Drive 🎯
 
 **Focus-Drive** is a productivity-focused web application designed to help users organize and achieve their daily goals with precision. It allows users to set, track, and visually monitor their progress, increasing productivity and motivation throughout the day. 🚀
 
@@ -29,7 +29,7 @@
 
 ---
 
-## Stay Focused Today 🔥🌟
+## Stay Focused Today 🌟
 
 Take control of your day and achieve your goals with **Focus-Drive**. Focus on what truly matters, track your progress, and stay motivated!
 
